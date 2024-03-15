@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    max-width: 1000px;
+	background-color: #ECCBF1
+    ;	
+}
+body {
+    background-color: #D0DAFC;
+    padding-bottom: 0px;
+}
+/* CSS Document */
+
+p {
+    font-size: 35pt;
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'
+}
+
+h1{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 60pt;
+}
+
+
+h3 {
+    color: #8F8F8F;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;	
+}
+
+
+h2{
+}
+
+	
+	
+
+header {
+    color: inherit;
+}
+.container {
+}
